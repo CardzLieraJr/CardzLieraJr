@@ -22,7 +22,9 @@ Database
 Mobile
 <p> <img src="https://skillicons.dev/icons?i=react" /> </p>
 Tools
-<p> <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,figma" /> </p>
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,figma,trello,jira" />
+</p>
 
 ## 🌐 Connect With Me
 
