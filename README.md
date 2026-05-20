@@ -16,7 +16,7 @@ https://cardzlierajr.github.io/portfolio
 Frontend
 <p> <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,vite" /> </p>
 Backend
-<p> <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,laravel,php" /> </p>
+<p> <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,laravel,php,python" /> </p>
 Database
 <p> <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase,supabase,sqlite" /> </p>
 Mobile
