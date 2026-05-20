@@ -1,4 +1,4 @@
-# Hi there 👋, my name is Ricardo Jr Liera
+# Hi there 👋, my name is Ricardo Jr, Liera
 
 Full Stack Developer
 I build modern web and mobile applications with clean UI, scalable backend systems, and efficient user experiences.
