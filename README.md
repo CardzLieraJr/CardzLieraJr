@@ -15,7 +15,7 @@ https://cardzlierajr.github.io/portfolio
 
 Frontend
 <p> 
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,vite,quasar,angular,vue" /> 
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,vite,angular,vue" /> 
 </p>
 Backend
 <p> 
@@ -31,7 +31,7 @@ Mobile
 </p>
 Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,figma,trello,linux" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,figma,linux,jira" />
 </p>
 <p>
   <img src="https://skillicons.dev/icons?i=jira" />
