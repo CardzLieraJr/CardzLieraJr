@@ -14,20 +14,29 @@ https://cardzlierajr.github.io/portfolio
 ## 🚀 Tech Stack
 
 Frontend
-<p> <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,vite" /> </p>
+<p> 
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,vite,quasar,angular,vue" /> 
+</p>
 Backend
-<p> <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,laravel,php,python" /> </p>
+<p> 
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,laravel,php,python,django" /> 
+</p>
 Database
-<p> <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase,supabase,sqlite" /> </p>
+<p> 
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase,supabase,sqlite" /> 
+</p>
 Mobile
-<p> <img src="https://skillicons.dev/icons?i=react" /> </p>
+<p> 
+  <img src="https://skillicons.dev/icons?i=react" /> 
+</p>
 Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,figma,trello" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,figma,trello,linux" />
 </p>
 <p>
   <img src="https://skillicons.dev/icons?i=jira" />
 </p>
+
 
 <!-- ### :zap: Github Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CardzLieraJr&theme=tokyonight) 
