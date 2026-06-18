@@ -29,9 +29,9 @@ Tools
   <img src="https://skillicons.dev/icons?i=jira" />
 </p>
 
-### :zap: Github Stats
+<!-- ### :zap: Github Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CardzLieraJr&theme=tokyonight) 
-[![Lites' github stats](https://github-readme-stats.vercel.app/api?username=CardzLieraJr&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Lites' github stats](https://github-readme-stats.vercel.app/api?username=CardzLieraJr&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ## 🌐 Connect With Me
 
