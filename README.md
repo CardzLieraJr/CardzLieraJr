@@ -15,7 +15,7 @@ https://cardzlierajr.github.io/portfolio
 
 Frontend
 <p> 
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,vite,angular,vue" /> 
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,mui,vite,angular,vue" />
 </p>
 Backend
 <p> 
