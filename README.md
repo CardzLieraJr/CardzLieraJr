@@ -29,7 +29,7 @@ Database
 </p>
 Mobile
 <p> 
-  <img src="https://skillicons.dev/icons?i=react" /> 
+  <img src="https://skillicons.dev/icons?i=react,flutter,kotlin,swift" />
 </p>
 Tools
 <p>
