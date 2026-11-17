@@ -20,12 +20,12 @@ Frontend
 Backend
 <p> 
   <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,laravel,php,python,django,graphql,bun" />
-  <img src="https://img.shields.io/badge/Hono.js-E36002?style=for-the-badge" alt="Hono.js" />
+  <img src="assets/hono.svg" alt="Hono.js" height="48" />
 </p>
 Database
 <p> 
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase,supabase,sqlite,aws" />
-  <img src="https://img.shields.io/badge/Adminer-34567C?style=for-the-badge" alt="Adminer" />
+  <img src="assets/adminer.svg" alt="Adminer" height="48" />
 </p>
 Mobile
 <p> 
@@ -34,8 +34,8 @@ Mobile
 Tools
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,figma,linux,jira" />
-  <img src="https://img.shields.io/badge/Devbox-6C5CE7?style=for-the-badge" alt="Devbox" />
-  <img src="https://img.shields.io/badge/WSL-0078D4?style=for-the-badge" alt="WSL" />
+  <img src="assets/devbox.svg" alt="Devbox" height="48" />
+  <img src="assets/wsl.png" alt="WSL" height="48" />
 </p>
 <p>
   <img src="https://skillicons.dev/icons?i=jira" />
