@@ -33,9 +33,9 @@ Mobile
 </p>
 Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,figma,linux,jira" />
-  <img src="assets/devbox.svg" alt="Devbox" height="48" />
-  <img src="assets/wsl.png" alt="WSL" height="48" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,figma,linux" height="48" align="middle" />
+  <img src="assets/devbox.svg" alt="Devbox" height="48" align="middle" />
+  <img src="assets/wsl.png" alt="WSL" height="48" align="middle" />
 </p>
 <p>
   <img src="https://skillicons.dev/icons?i=jira" />
